@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FrontEndMentor---Advice-Generator-App-Newbie-/static/css/main.ac956b4a.css",
+    "main.js": "/FrontEndMentor---Advice-Generator-App-Newbie-/static/js/main.37004f81.js",
+    "index.html": "/FrontEndMentor---Advice-Generator-App-Newbie-/index.html",
+    "static/media/icon-dice.svg": "/FrontEndMentor---Advice-Generator-App-Newbie-/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
+    "static/media/pattern-divider-mobile.svg": "/FrontEndMentor---Advice-Generator-App-Newbie-/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
+    "main.ac956b4a.css.map": "/FrontEndMentor---Advice-Generator-App-Newbie-/static/css/main.ac956b4a.css.map",
+    "main.37004f81.js.map": "/FrontEndMentor---Advice-Generator-App-Newbie-/static/js/main.37004f81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac956b4a.css",
+    "static/js/main.37004f81.js"
+  ]
+}
