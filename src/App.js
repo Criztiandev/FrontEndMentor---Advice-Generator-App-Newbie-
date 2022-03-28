@@ -32,15 +32,15 @@ function App() {
   }
 
   const mainVariant = {
-    start: { width: 0, height: 0, borderRadius: ["100%", "50%"] },
-    end: { width: 360, height: 360, borderRadius: "5%" },
+    start: { width: 0, height: 0, borderRadius: ["100%"] },
+    end: { width: 480, height: 360, borderRadius: ["50%", "25%", "5%"] },
     transition: { delay: 0.5, duration: 1.5 },
   };
 
   const textVariant = {
     start: { opacity: 0 },
     end: { opacity: 1 },
-    transition: { delay: 2.5, duration: 1.5 },
+    transition: { delay: 1.8, duration: 1.5 },
   };
 
   const buttonContainerVariant = {
