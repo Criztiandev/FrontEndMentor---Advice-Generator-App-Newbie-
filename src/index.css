@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.default {
+  @apply flex min-h-screen items-center justify-center bg-neutral-Dark-Blue font-main;
+}
+
+.main-container {
+  @apply relative flex max-w-[360px] flex-col items-center justify-between rounded-xl bg-neutral-Dark-Grayish-Blue px-4 text-center lg:max-w-[480px];
+}
+
+.header {
+  @apply mb-4 block pt-10 text-sm tracking-[0.3rem] text-primary-Neo-Green;
+}
+.quotes {
+  @apply block text-xl font-semibold text-primary-Light-cyan;
+}
+
+.button {
+}
+
+.divider {
+}
