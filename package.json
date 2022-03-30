@@ -10,6 +10,8 @@
     "@testing-library/user-event": "^7.2.1",
     "framer-motion": "^6.2.8",
     "react": "^17.0.2",
+    "react-dnd": "^15.1.1",
+    "react-dnd-html5-backend": "^15.1.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.6",
     "react-router-dom": "^6.2.2",
@@ -20,7 +22,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -D  build",
+    "deploy": "gh-pages -d  build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
